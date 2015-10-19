@@ -1,0 +1,3 @@
+/*
+ffstat replaces unwanted fantasy player predicctions with matchup relevant statistics 
+*/
